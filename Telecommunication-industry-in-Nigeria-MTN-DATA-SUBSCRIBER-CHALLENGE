@@ -1,0 +1,21 @@
+Telecommunication-industry-in-Nigeria-MTN-DATA-SUBSCRIBER-CHALLENGE
+
+Introduction
+MTN (Mobile Telephone Network) is a telecommunications company in Nigeria
+that is in the business of providing voice services via 2G, 
+3G and 4G networks, including prepaid and postpaid airtime
+(on various price plans), message service, international roaming,
+electronic voucher distribution service and more.
+
+About Dataset
+The data was obtained online from the MTN portal and loaded into Excel
+Has 35 Columns containing the amount realized on data for each month on active and connected lines
+12 Rows contain details of active and connected lines for fixed wired and wireless.
+
+Data Cleaning
+This was done in Excel
+Step 1: Removing duplicates
+Data Analysis- using Pivot Table
+Data Visualization
+Insight
+Recommendation
