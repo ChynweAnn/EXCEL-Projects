@@ -17,7 +17,7 @@ This was done in Excel
 Step 1: Removing duplicates
 Data Analysis- using Pivot Table
 Data Visualization-Dashboard
-[MTN Monthly Subscription Chart](https://github.com/ChynweAnn/EXCEL-Projects/blob/main/MTN%20monthly%20sub%20chart.png)
+![MTN Monthly Subscription Chart](https://github.com/ChynweAnn/EXCEL-Projects/blob/main/MTN%20monthly%20sub%20chart.png)
 Insight:
 The quarterly subscriber data shows the quarterly growth in subscription quarterly from September till date,
 the growth is guided by the operators but our focus is on MTC, Notice the growth from 73 million to 75 million in the last 3 quarters.
