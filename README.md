@@ -1,1 +1,33 @@
 # EXCEL-Projects
+
+Telecommunication-industry-in-Nigeria-MTN-DATA-SUBSCRIBER-CHALLENGE
+
+Introduction
+MTN (Mobile Telephone Network) is a telecommunications company in Nigeria
+that is in the business of providing voice services via 2G, 
+3G and 4G networks, including prepaid and postpaid airtime
+(on various price plans), message service, international roaming,
+electronic voucher distribution service and more.
+
+About Dataset
+The data was obtained online from the MTN portal and loaded into Excel
+Has 35 Columns containing the amount realized on data for each month on active and connected lines
+12 Rows contain details of active and connected lines for fixed wired and wireless.
+
+Data Cleaning
+This was done in Excel
+Step 1: Removing duplicates
+Data Analysis- using Pivot Table
+Data Visualization-Dashboard
+![MTN Monthly Subscription Chart](https://github.com/ChynweAnn/EXCEL-Projects/blob/main/MTN%20monthly%20sub%20chart.png)
+Insight:
+The quarterly subscriber data shows the quarterly growth in subscriptions quarterly from September to date.
+The growth is guided by the operators, but our focus is on MTC, Notice the growth from 73 million to 75 million in the last 3 quarters.
+The dashboard shows the data type, the amount of data, and the monthly subscriber Technology data available with MTN between April 2017 and February 2022.
+It was discovered that there were up to 124.05% subscriptions before COVID-19, and the increase comes with the festive period and in the early months of the year, 
+After which the percentage of the subscription reduces mid-year, so it can be concluded here that perhaps, a reasonable number of persons comes back to Nigeria 
+to celebrate the season, which leads to the rise and fall in subscriptions.
+After COVID-19, it was realized that there has never been any such increase in the subscription again, as the highest recorded is currently 108.94%
+This could be as a result of the series of lock down experienced and the processes involved before one can travel from one country to the other and in addition,
+this could be as a result of terrorist attack that has taken so many lives in Nigeria and the number of persons who has been pushed to poverty, probably have moved to a remote area where
+there is no network to assess the internet. It is also discovered that customers tend to subscribe more to cheaper data plans (for example 2 day plan) with higher turnover than expensive data plans.
